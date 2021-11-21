@@ -67,7 +67,7 @@ body {
 }
 
 .grid {
-  background: url("/assets/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg") no-repeat center/ cover;
+  background: url("assets/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg") no-repeat center/ cover;
   left: 0;
   height: 100%;
   width: 50%;
